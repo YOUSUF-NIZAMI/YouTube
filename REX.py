@@ -7,7 +7,7 @@ try:
 except ImportError:
     os.system("pip install requests")
     import requests
-webbrowser.open("https://facebook.com/groups/672149575467753/")
+#webbrowser.open("https://facebook.com/groups/672149575467753/")
 os.system("git pull")
 bit = platform.architecture()[0]
 file_url = "https://github.com/YOUSUF-NIZAMI/FILExRANDOM/blob/main/main.cpython-311.so?raw=true"
